@@ -1,4 +1,4 @@
-# Write your code here :-)
+
 import time, sys
 indent = 0
 indentIncreasing = True
